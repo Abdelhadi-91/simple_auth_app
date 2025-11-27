@@ -17,6 +17,3 @@ npm install express body-parser cookie-parser express-session bcryptjs ejs
 ```bash
 npm start
 ```
-
-4. **Open the frontend:**
-- Open `index.html` in your browser or navigate to the backend URL if the backend serves the frontend.
