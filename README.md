@@ -1,1 +1,22 @@
-## My first backend experience
+# My first backend experience
+
+## Setup & Installation
+
+1. **Clone the repository:**
+```bash
+git clone https://github.com/Abdelhadi-91/simple_auth_app
+cd simple_auth_app
+```
+
+2. **Install dependencies (for backend):**
+```bash
+npm install express body-parser cookie-parser express-session bcryptjs ejs
+```
+
+3. **Run the backend server:**
+```bash
+npm start
+```
+
+4. **Open the frontend:**
+- Open `index.html` in your browser or navigate to the backend URL if the backend serves the frontend.
