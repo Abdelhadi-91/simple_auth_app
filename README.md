@@ -12,8 +12,10 @@ cd simple_auth_app
 ```bash
 npm install express body-parser cookie-parser express-session bcryptjs ejs
 ```
+3. **Make sure you create the "users.json" file**
 
-3. **Run the backend server:**
+
+4. **Run the backend server:**
 ```bash
 npm start
 ```

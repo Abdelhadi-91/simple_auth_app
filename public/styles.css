@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 
-/* Center the whole page */
+
 body {
     margin: 0;
     padding: 0;
@@ -16,7 +16,7 @@ body {
     font-family: Arial, sans-serif;
 }
 
-/* Card container */
+
 .container {
     width: 350px;
     padding: 25px;
@@ -26,14 +26,14 @@ body {
     text-align: center;
 }
 
-/* Title */
+
 h1 {
     margin-bottom: 20px;
     font-size: 28px;
     color: #333;
 }
 
-/* Inputs */
+
 input {
     width: 100%;
     padding: 12px;
@@ -43,7 +43,7 @@ input {
     font-size: 16px;
 }
 
-/* Button */
+
 button {
     width: 100%;
     padding: 12px;
@@ -60,7 +60,7 @@ button:hover {
     background: #1d5eff;
 }
 
-/* Links */
+
 a {
     display: block;
     margin-top: 15px;
@@ -73,7 +73,7 @@ a:hover {
     text-decoration: underline;
 }
 
-/* Error message */
+
 .message {
     color: red;
     margin-top: 10px;
